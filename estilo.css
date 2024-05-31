@@ -1,0 +1,46 @@
+#container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#container img {
+    width: 30%;
+    margin: 1.4%;
+}
+
+#titulo {
+    width: 30vh;
+    margin-left: 11%;
+    font-size: 40px;
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    text-transform: uppercase;
+    border-bottom: solid 2px rgb(160, 16, 16);
+    padding-bottom: 2vh;
+}
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 768px) {
+
+    #titulo {
+        width: 30vh;
+        margin-left: 11%;
+        font-size: 30px;
+        font-family: "EB Garamond", serif;
+        font-optical-sizing: auto;
+        font-weight: 700;
+        font-style: normal;
+        text-transform: uppercase;
+        border-bottom: solid 2px rgb(160, 16, 16);
+    }
+}
